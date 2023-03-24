@@ -123,10 +123,10 @@ cv2.destoryAllWindows()
 
 
 ### v) Split and merge HSV Image
-[OUTPUT](./images/merged%20HSV.png)
-[OUTPUT](./images/HUE%20Image.png)
-[OUTPUT](./images/saturation%20image.png)
-[OUTPUT](./images/GRAY%20image.png)
+![OUTPUT](./images/merged%20HSV.png)
+![OUTPUT](./images/HUE%20Image.png)
+![OUTPUT](./images/saturation%20image.png)
+![OUTPUT](./images/GRAY%20image.png)
 
 
 ## Result:
