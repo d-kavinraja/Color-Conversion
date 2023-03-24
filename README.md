@@ -101,32 +101,32 @@ cv2.destoryAllWindows()
 ```
 ## OUTPUT:
 ### i) BGR and RGB to HSV and GRAY
-[OUTPUT](./images/Original%20image_screenshot_23.03.2023.png)
-[OUTPUT](./images/BGR2HSV_screenshot_23.03.2023.png)
-[OUTPUT](./images/RGB2GRAY_screenshot_23.03.2023.png)
+![OUTPUT](./images/original%20image.png)
+![OUTPUT](./images/BGR%20to%20HSV.png)
+![OUTPUT](./images/RGB%20TO%20GRAY.png)
 
 ### ii) HSV to RGB and BGR
-[OUTPUT](./images/HSV2RGB_screenshot_23.03.2023.png)
-[OUTPUT](./images/HSV2BGR_screenshot_23.03.2023.png)
+![OUTPUT](./images/HSV%20to%20RGB.png)
+![OUTPUT](./images/HSV%20to%20BGR.png)
 
 ### iii) RGB and BGR to YCrCb
-[OUTPUT](./images/RGB2YCrCb_screenshot_23.03.2023.png)
-[OUTPUT](./images/BGR2YCrCb_screenshot_23.03.2023.png)
+![OUTPUT](./images/RGB%20to%20YCRCB.png)
+![OUTPUT](./images/BGR%20to%20YCRCB.png)
 
 
 ### iv) Split and merge RGB Image
-[OUTPUT](./images/Merged%20BGR%20Image_screenshot_23.03.2023.png)
-[OUTPUT](./images/R-Channel_screenshot_23.03.2023.png)
-[OUTPUT](./images/B-Channel_screenshot_23.03.2023.png)
-[OUTPUT](./images/G-Channel_screenshot_23.03.2023.png)
+![OUTPUT](./images/merged%20BGR.png)
+![OUTPUT](./images/R-channel.png)
+![OUTPUT](./images/B-channel.png)
+![OUTPUT](./images/G-%20channel.png)
 
 
 
 ### v) Split and merge HSV Image
-[OUTPUT](./images/Merged%20HSV%20Image_screenshot_23.03.2023.png)
-[OUTPUT](./images/Hue-Image_screenshot_23.03.2023.png)
-[OUTPUT](./images/Saturation-Image_screenshot_23.03.2023.png)
-[OUTPUT](./images/Gray-Image_screenshot_23.03.2023.png)
+[OUTPUT](./images/merged%20HSV.png)
+[OUTPUT](./images/HUE%20Image.png)
+[OUTPUT](./images/saturation%20image.png)
+[OUTPUT](./images/GRAY%20image.png)
 
 
 ## Result:
