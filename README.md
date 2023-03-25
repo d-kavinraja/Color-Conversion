@@ -101,32 +101,32 @@ cv2.destoryAllWindows()
 ```
 ## OUTPUT:
 ### i) BGR and RGB to HSV and GRAY
-![OUTPUT](./images/original%20image.png)
-![OUTPUT](./images/BGR%20to%20HSV.png)
-![OUTPUT](./images/RGB%20TO%20GRAY.png)
+![OUTPUT](./original%20image.png)
+![OUTPUT](./BGR%20to%20HSV.png)
+![OUTPUT](./RGB%20TO%20GRAY.png)
 
 ### ii) HSV to RGB and BGR
-![OUTPUT](./images/HSV%20to%20RGB.png)
-![OUTPUT](./images/HSV%20to%20BGR.png)
+![OUTPUT](./HSV%20to%20RGB.png)
+![OUTPUT](./HSV%20to%20BGR.png)
 
 ### iii) RGB and BGR to YCrCb
-![OUTPUT](./images/RGB%20to%20YCRCB.png)
-![OUTPUT](./images/BGR%20to%20YCRCB.png)
+![OUTPUT](./RGB%20to%20YCRCB.png)
+![OUTPUT](./BGR%20to%20YCRCB.png)
 
 
 ### iv) Split and merge RGB Image
-![OUTPUT](./images/merged%20BGR.png)
-![OUTPUT](./images/R-channel.png)
-![OUTPUT](./images/B-channel.png)
-![OUTPUT](./images/G-%20channel.png)
+![OUTPUT](./merged%20BGR.png)
+![OUTPUT](./R-channel.png)
+![OUTPUT](./B-channel.png)
+![OUTPUT](./G-%20channel.png)
 
 
 
 ### v) Split and merge HSV Image
-![OUTPUT](./images/merged%20HSV.png)
-![OUTPUT](./images/HUE%20Image.png)
-![OUTPUT](./images/saturation%20image.png)
-![OUTPUT](./images/GRAY%20image.png)
+![OUTPUT](./merged%20HSV.png)
+![OUTPUT](./HUE%20Image.png)
+![OUTPUT](./saturation%20image.png)
+![OUTPUT](./GRAY%20image.png)
 
 
 ## Result:
